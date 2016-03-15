@@ -1,2 +1,2 @@
 # docker-node
-Node.js Docker
+Docker for Node.js Classes
