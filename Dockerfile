@@ -2,7 +2,7 @@ from ubuntu:latest
 
 MAINTAINER Eric Greene <eric@training4developers.com>
 
-ENV NODE_VERSION 4.4.0
+ENV NODE_VERSION 6.2.1
 ENV NODE_ARCHIVE node-v$NODE_VERSION-linux-x64.tar.xz
 
 # Update & Install Ubuntu Packages
